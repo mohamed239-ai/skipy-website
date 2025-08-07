@@ -199,10 +199,6 @@ footer nav ul li:not(:last-child)::after {
   }
 }
 
-#footer{
-    margin-top: 0px;
-}
-
 /* Hero Section */
 #hero {
   background: linear-gradient(to right, #f4f4f4, #e8e8e8);
